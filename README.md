@@ -13,7 +13,7 @@
 [Twitter](https://twitter.com/manishintech) | [Linkedin](https://www.linkedin.com/in/manishkumarjha-1337/)
 
 ### Check out the live demos of all my projects here:
-[Portfolio](https://manishfolio.netlify.app/ )
+[Portfolio](https://manishfolio.vercel.app/projects.html )
 
 ### Languages and Tools:
 
