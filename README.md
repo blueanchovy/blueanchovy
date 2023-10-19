@@ -2,7 +2,7 @@
 
 ---
 
-## I'm Manish Kumar Jha, and this is a fairly recent pic of me in the profile picture.
+## I'm Manish Kumar Jha, and I'm a Frontend focused Software Engineer.
 
 - I'm looking forward to learn great things.
 - There are already many answers, I am looking for questions.
