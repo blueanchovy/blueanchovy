@@ -10,10 +10,10 @@
 - Always looking for collaborators.
 
 ### Yes, I am socially very active:
-[Twitter](https://twitter.com/manishintech) | [Linkedin](https://www.linkedin.com/in/manishkumarjha-1337/)
+[Twitter](https://twitter.com/manishjha43) | [Linkedin](https://www.linkedin.com/in/manishkumarjha-1337/)
 
 ### Check out the live demos of all my projects here:
-[Portfolio](https://manishfolio.vercel.app/projects.html )
+[Portfolio](https://manishfolio.vercel.app)
 
 ### Languages and Tools:
 
